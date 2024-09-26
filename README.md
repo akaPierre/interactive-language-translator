@@ -10,6 +10,12 @@
 * Text-to-Speech: Use gTTS to convert translated text to audio.
 * Swap Languages: Swap the source and target languages with a single click.
 * Auto-Translation: Translates text after a debounce period.
+* Save Translation: Allows users to save their translation to a file.
+* Multiple Language Translation: Translates input text into several languages.
+* Translation History: Shows a log of previous translations.
+* Word/Character Count: Not implemented directly in the UI but can be added easily if needed.
+* Dark Mode: Uses ttkbootstrap for a dark mode theme.
+* Hotkeys: Can be added based on your preferences (not implemented here).
 * Icon: Added a custom icon for the app window.
 * Themes: Implemented a modern look using ttkbootstrap with a customizable theme.
 
