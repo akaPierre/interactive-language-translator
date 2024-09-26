@@ -2,7 +2,7 @@
 
 ## Sreenshot of working project
 
-<img src="https://raw.githubusercontent.com/akaPierre/chess-js/main/chess-js-tau.vercel.app.png" alt="Interactive Language Translator" />
+<img src="https://raw.githubusercontent.com/akaPierre/interactive-language-translator/refs/heads/main/screenshot-interactive-language-translator.png" alt="Interactive Language Translator" />
 
 ## Features
 
@@ -19,10 +19,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/akaPierre/
+$ git clone https://github.com/akaPierre/interactive-language-translator
 
 # Go into the repository
-$ cd 
+$ cd interactive-language-translator
 
 # Install dependencies
 $ pip install -r requirements.txt
